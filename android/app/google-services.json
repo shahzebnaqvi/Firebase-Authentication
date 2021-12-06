@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206027378601",
+    "project_id": "flutt-authentication",
+    "storage_bucket": "flutt-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206027378601:android:6282ea97a1538f186efeb8",
+        "android_client_info": {
+          "package_name": "com.example.firebaseintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206027378601-58rg19tscgles5frgfqn0ih0q68k7278.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1CA2eBGmvmsD2h_5IwxanZ9TN-ZR3IKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206027378601-58rg19tscgles5frgfqn0ih0q68k7278.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
